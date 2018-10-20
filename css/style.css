@@ -3,7 +3,8 @@
 }
 
 .container div {
-
+	border: 1px solid #ccc;
+	padding: 10px;
 }
 
 .box-1{
