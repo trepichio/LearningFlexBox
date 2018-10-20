@@ -19,12 +19,12 @@
 }
 
 
-.container-1 div, .container-2 div {
+.container-1 div, .container-2 div, .container-3 div {
 	border: 1px solid #ccc;
 	padding: 10px;
 }
 
-.box-1{
+.box-1it
 	flex: 2;
 	order: 2;
 }
