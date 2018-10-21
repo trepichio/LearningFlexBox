@@ -16,6 +16,10 @@
 	/* justify-content: space-around; */
 }
 	
+.container-3 {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
 }
 
 
@@ -42,4 +46,8 @@
 .container-2-box {
 	flex-basis: 25%;
 	/* width: 25%; */
+}
+
+.container-3-box {
+	flex-basis: 25%;
 }
